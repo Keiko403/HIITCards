@@ -1,7 +1,7 @@
 # KTApps
 Apps designed by Keith Taffs
 
-Privacy Policy
+# Privacy Policy
 
 Your privacy is important to us. It is Keith Taffs' policy to respect your privacy regarding any information we may collect from you through our app, HIIT Cards.
 
@@ -17,7 +17,8 @@ You are free to refuse our request for your personal information, with the under
 
 Your continued use of our app will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 
-By downloading "HIIT Cards", your use of the app is at your own discretion and rick. "HIIT Cards" makes no claims or promises with respect to the quality, the accuracy or reliability of the app, its safety or security, or its content.
+# Terms Of Service
+By downloading "HIIT Cards", your use of the app is at your own discretion and risk. "HIIT Cards" makes no claims or promises with respect to the quality, the accuracy or reliability of the app, its safety or security, or its content.
 
 This policy is effective as of 1 February 2021.
 
