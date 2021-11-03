@@ -17,7 +17,7 @@ You are free to refuse our request for your personal information, with the under
 
 Your continued use of our app will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 
-# Terms Of Service
+# Terms Of Use
 By downloading "HIIT Cards", your use of the app is at your own discretion and risk. "HIIT Cards" makes no claims or promises with respect to the quality, the accuracy or reliability of the app, its safety or security, or its content.
 
 This policy is effective as of 1 February 2021.
